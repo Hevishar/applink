@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vn.com.napas.bank_app_demo",
+            "sha256_cert_fingerprints": [
+                "11:CF:BC:82:A7:D0:36:10:0B:94:D9:01:BC:A2:C4:0B:38:EE:47:6E:AB:65:EA:59:AB:EA:7B:EE:9B:1B:A5:2B"
+            ]
+        }
+    }
+]
